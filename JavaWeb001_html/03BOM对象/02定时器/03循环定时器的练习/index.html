@@ -4,10 +4,12 @@
 		<meta charset="utf-8" />
 		<title></title>
 		<script>
-			// var a = 0;
-			/*nihao
-			 hehe
-			 xixi*/
+			function run1(){
+				alert("run1");
+				clearInterval(id);
+			}
+			
+			var id = setInterval("run1()", 2000);
 		</script>
 	</head>
 	<body>
