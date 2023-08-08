@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<script>
+			function run1(){
+				alert("run1");
+			}
+			function run2(str){
+				alert(str);
+			}
+			function run3(obj){
+				alert(obj.value);
+			}
+		</script>
+	</head>
+	<body>
+		<input type="text" value="1111" onclick="run1()"/><br>
+		<input type="text" value="2222" onclick="run2('你好啊')"/><br>
+		<input type="text" value="3333" onclick="run3(this)"/><br>
+	</body>
+</html>

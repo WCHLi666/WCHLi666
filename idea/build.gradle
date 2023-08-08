@@ -1,0 +1,77 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.1.2'
+    id 'io.spring.dependency-management' version '1.1.2'
+    id 'dev.hilla' version '2.1.4'
+    id 'com.vaadin' version '24.1.4'
+}
+
+group = 'com.dreamtank'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    sourceCompatibility = '20'
+}
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    set('hillaVersion', "2.1.4")
+    set('vaadinVersion', "24.1.4")
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-data-r2dbc'
+    implementation 'org.springframework.boot:spring-boot-starter-data-rest'
+    implementation 'org.springframework.boot:spring-boot-starter-graphql'
+    implementation 'org.springframework.boot:spring-boot-starter-hateoas'
+    implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+    implementation 'org.springframework.boot:spring-boot-starter-jersey'
+    implementation 'org.springframework.boot:spring-boot-starter-jooq'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-web-services'
+    implementation 'org.springframework.boot:spring-boot-starter-webflux'
+    implementation 'com.vaadin:vaadin-spring-boot-starter'
+    implementation 'dev.hilla:hilla-react-spring-boot-starter'
+    implementation 'org.flywaydb:flyway-core'
+    implementation 'org.flywaydb:flyway-mysql'
+    implementation 'org.flywaydb:flyway-sqlserver'
+    implementation 'org.liquibase:liquibase-core'
+    implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:3.0.2'
+    implementation 'org.springframework.data:spring-data-rest-hal-explorer'
+    implementation 'org.springframework.session:spring-session-jdbc'
+    runtimeOnly 'com.h2database:h2'
+    runtimeOnly 'com.ibm.db2:jcc'
+    runtimeOnly 'com.microsoft.sqlserver:mssql-jdbc'
+    runtimeOnly 'com.mysql:mysql-connector-j'
+    runtimeOnly 'com.oracle.database.jdbc:ojdbc8'
+    runtimeOnly 'com.oracle.database.r2dbc:oracle-r2dbc'
+    runtimeOnly 'io.r2dbc:r2dbc-h2'
+    runtimeOnly 'io.r2dbc:r2dbc-mssql:1.0.0.RELEASE'
+    runtimeOnly 'org.apache.derby:derby'
+    runtimeOnly 'org.apache.derby:derbytools'
+    runtimeOnly 'org.hsqldb:hsqldb'
+    runtimeOnly 'org.mariadb:r2dbc-mariadb:1.1.3'
+    runtimeOnly 'org.mariadb.jdbc:mariadb-java-client'
+    runtimeOnly 'org.postgresql:postgresql'
+    runtimeOnly 'org.postgresql:r2dbc-postgresql'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'io.projectreactor:reactor-test'
+    testImplementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter-test:3.0.2'
+    testImplementation 'org.springframework.graphql:spring-graphql-test'
+}
+
+dependencyManagement {
+    imports {
+        mavenBom "com.vaadin:vaadin-bom:${vaadinVersion}"
+        mavenBom "dev.hilla:hilla-bom:${hillaVersion}"
+    }
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
