@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.atguigu.maven</groupId>
+  <artifactId>pro02-maven-idea-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230831075402</lastUpdated>
+  </versioning>
+</metadata>
