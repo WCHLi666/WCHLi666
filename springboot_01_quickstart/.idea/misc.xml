@@ -5,6 +5,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_03_read_data/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_04_profile/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_05_maven_and_boot_profile/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_06_config_file/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_07_test/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_08_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_09_ssm/pom.xml" />
       </list>
     </option>
   </component>
