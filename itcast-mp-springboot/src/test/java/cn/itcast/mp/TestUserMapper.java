@@ -27,12 +27,12 @@ public class TestUserMapper {
     @Test
     public void testInsert() {
         User user = new User();
-        user.setMail("2@itcast.cn");
-        user.setAge(301);
-        user.setUserName("caocao1");
-        user.setName("曹操1");
+        user.setMail("zhugeliang@itcast.cn");
+        user.setAge(25);
+        user.setUserName("zhugeliang");
+        user.setName("诸葛亮");
         user.setPassword("123456");
-        user.setAddress("北京");
+        user.setAddress("广州");
 
         int result = this.userMapper.insert(user); //result数据库受影响的行数
         System.out.println("result => " + result);
@@ -87,7 +87,7 @@ public class TestUserMapper {
     @Test
     public void testDeleteById(){
         // 根据id删除数据
-        int result = this.userMapper.deleteById(9L);
+        int result = this.userMapper.deleteById(2L);
         System.out.println("result => " + result);
     }
 
@@ -292,6 +292,14 @@ public class TestUserMapper {
                 .select("id","name","age"); //指定查询的字段
 
         List<User> users = this.userMapper.selectList(wrapper);
+        for (User user : users) {
+            System.out.println(user);
+        }
+    }
+
+    @Test
+    public void testFindAll(){
+        List<User> users = this.userMapper.findAll();
         for (User user : users) {
             System.out.println(user);
         }

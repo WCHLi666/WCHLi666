@@ -8,4 +8,8 @@
         select * from tb_user
     </select>
 
+    <select id="findById" resultType="cn.itcast.mp.simple.pojo.User">
+        select * from tb_user where id = #{id}
+    </select>
+
 </mapper>
