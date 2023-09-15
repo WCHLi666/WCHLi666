@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot_09_config" />
         <module name="springboot_08_ssmp" />
+        <module name="springboot_09_config" />
+        <module name="springboot_11_log" />
+        <module name="springboot_10_profiles" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +17,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot_08_ssmp" options="-parameters" />
       <module name="springboot_09_config" options="-parameters" />
+      <module name="springboot_10_profiles" options="-parameters" />
+      <module name="springboot_11_log" options="-parameters" />
     </option>
   </component>
 </project>

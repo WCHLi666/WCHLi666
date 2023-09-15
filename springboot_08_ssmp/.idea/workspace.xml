@@ -5,28 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c4914a-1351-45c9-b2e4-36a65f7b0a38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/jarRepositories.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/itcast-mybatis-plus-spring/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_02_base_configuration/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_02_base_configuration/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_03_yaml/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_03_yaml/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_03_yaml/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_03_yaml/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_05_mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_05_mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_07_druid/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_07_druid/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/SSMPApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/SSMPApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/axios-0.18.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_10_profiles/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_11_log/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_11_log/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +46,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "e6b833da49e111f42bb1ea763de2812d",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -65,7 +59,28 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.SSMPApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_11_log" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_10_profiles" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SSMPApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot_08_ssmp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SSMPApplication" />
@@ -90,6 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1694677491732</updated>
       <workItem from="1694677492941" duration="334000" />
+      <workItem from="1694677876669" duration="1227000" />
+      <workItem from="1694736643204" duration="3507000" />
     </task>
     <servers />
   </component>

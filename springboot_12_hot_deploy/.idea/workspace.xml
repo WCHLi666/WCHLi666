@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f49d6dc-be9a-429e-a14e-fec476255357" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/itcast-mybatis-plus-spring/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_10_profiles/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_11_log/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_11_log/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2VPcxBquMVBcNkirkGtw610XBsm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dreamtank122/WCHLi666/springboot_12_hot_deploy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SSMPApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springboot_12_hot_deploy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SSMPApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f49d6dc-be9a-429e-a14e-fec476255357" name="Changes" comment="" />
+      <created>1694741401500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694741401500</updated>
+      <workItem from="1694741402604" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
