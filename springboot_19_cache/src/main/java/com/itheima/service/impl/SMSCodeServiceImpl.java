@@ -4,13 +4,8 @@ import com.itheima.domain.SMSCode;
 import com.itheima.service.SMSCodeService;
 import com.itheima.utils.CodeUtils;
 import net.rubyeye.xmemcached.MemcachedClient;
-import net.rubyeye.xmemcached.exception.MemcachedException;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cache.annotation.CachePut;
-import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
-
-import java.util.concurrent.TimeoutException;
 
 @Service
 public class SMSCodeServiceImpl implements SMSCodeService {

@@ -31,7 +31,6 @@ spring:
 
 
 #--ehcache--
-# ehcache
 #  cache:
 #    type: ehcache
 #    ehcache:

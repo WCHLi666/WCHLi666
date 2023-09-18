@@ -11,6 +11,14 @@ spring:
   datasource:
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/ssm_db
+      url: jdbc:mysql://localhost:3306/ssm_db?serverTimezone=UTC
       username: root
-      password: mt123456
+      password: root
+
+
+
+
+
+
+
+

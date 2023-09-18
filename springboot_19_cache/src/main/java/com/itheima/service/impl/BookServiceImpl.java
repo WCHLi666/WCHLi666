@@ -4,11 +4,9 @@ import com.itheima.dao.BookDao;
 import com.itheima.domain.Book;
 import com.itheima.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
-import java.util.HashMap;
 import java.util.List;
 
 @Service
