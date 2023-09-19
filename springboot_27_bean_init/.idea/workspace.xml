@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb2efbf6-4c9f-4591-872f-dd8868a893ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast-mybatis-plus/itcast-mybatis-plus-spring/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/target/classes/com/itheima/Springboot0101QuickstartApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/target/classes/com/itheima/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_01_quickstart/target/test-classes/com/itheima/Springboot0101QuickstartApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_04_quickstart/target/classes/com/itheima/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_01_04_quickstart/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/com/itheima/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/classes/text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_02_base_configuration/target/test-classes/com/itheima/Springboot0102QuickstartApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_03_yaml/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_03_yaml/target/classes/com/itheima/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_03_yaml/target/classes/com/itheima/MyDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_03_yaml/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_03_yaml/target/test-classes/com/itheima/Springboot0102QuickstartApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46/storage_v2/_src_/schema/ssm_db.8NvEyg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/dataSources/d2b28d50-861a-40d6-98d6-38210245aa46/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/SSMPApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/config/MPConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/controller/BookController2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/controller/utils/ProjectExceptionAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/controller/utils/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/domain/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/service/IBookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/com/itheima/service/impl/BookServiceImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/js/axios-0.18.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/js/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/pages/books.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/elementui/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/elementui/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/elementui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_08_ssmp/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/application-devDB.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/application-devMVC.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/application-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/com/itheima/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/mul/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/mul/application-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/mul/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/mul/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/props/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/props/application-pro.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/props/application-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/props/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_10_profiles/target/classes/simple/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/SSMPApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/controller/utils/ProjectExceptionAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/controller/utils/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/domain/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/service/IBookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/config/MPConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/js/axios-0.18.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/js/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/pages/books.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/elementui/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/elementui/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/elementui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/classes/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/test-classes/com/itheima/dao/BookDaoTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_12_hot_deploy/target/test-classes/com/itheima/service/BookServiceTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2VajEKvALcX4wlEKciAO4ZNqq0K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dreamtank122/WCHLi666/springboot_27_bean_init",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb2efbf6-4c9f-4591-872f-dd8868a893ae" name="Changes" comment="" />
+      <created>1695080975960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695080975960</updated>
+      <workItem from="1695080977135" duration="2659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
