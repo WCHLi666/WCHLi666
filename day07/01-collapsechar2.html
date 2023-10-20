@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <style>
+    *{margin: 0px;padding: 0px;}
+    /*body{*/
+    /*  background-color: aquamarine;*/
+    /*  width: 100%;*/
+    /*  height: 100vh;*/
+    /*  display: flex;*/
+    /*}*/
+    .char1{
+      /*width: 100px;*/
+      /*height: 100px;*/
+      background-color: red;
+      margin: auto;
+        border-radius: 85px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .my-span{
+      color: white;
+      font-size: 130px;
+        display: inline-block;
+        transition: 1s;
+    }
+    .my-hide{
+        opacity: 0;
+        width: 0px;
+    }
+    .char1:hover>span.my-hide{
+        opacity: 1;
+        /*width: auto;*/
+        width: 140px;
+    }
+
+    .my-div-top{
+        width: 100%;
+        height: 50vh;
+        background-color: lightblue;
+        display: flex;
+    }
+
+    .my-div-bottom{
+        width: 100%;
+        height: 50vh;
+        background-color: lightgreen;
+        display: flex;
+    }
+
+    .my-fix-width{
+        width: 634px;
+        text-align: center;
+    }
+
+  </style>
+</head>
+<body>
+<div class="my-div-top">
+    <div class="char1">
+        <span class="my-span">倚</span>
+        <span class="my-span my-hide">天</span>
+        <span class="my-span my-hide">屠</span>
+        <span class="my-span my-hide">龙</span>
+        <span class="my-span my-hide">记</span>
+    </div>
+    <div class="char1">
+        <span class="my-span">射</span>
+        <span class="my-span my-hide">雕</span>
+        <span class="my-span my-hide">英</span>
+        <span class="my-span my-hide">雄</span>
+        <span class="my-span my-hide">传</span>
+    </div>
+</div>
+<div class="my-div-bottom">
+    <div class="char1 my-fix-width">
+        <span class="my-span">神</span>
+        <span class="my-span my-hide">雕</span>
+        <span class="my-span my-hide">侠</span>
+        <span class="my-span my-hide">侣</span>
+    </div>
+</div>
+</body>
+</html>

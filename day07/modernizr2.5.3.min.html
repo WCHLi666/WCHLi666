@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+  <script src="../js/jquery-3.4.1.min.js"></script>
+  <script src="modernizr-custom.js"></script>
+  <script src="../js/turn.min.js"></script>
+</head>
+<body>
+<div id="flipbook">
+  <div
+</div>
+<script type="text/javascript">
+    yepnope({
+        test:Modernizr.csstransforms,
+        yep:['turn.min.js'],
+        nope:['../js/turn.html4.min.js'],
+        both:[],
+        complete:function (){
+            $("#flipbook").turn({
+                width:400,
+                height:300,
+                autoCenter:true
+            })
+        }
+    })
+    let a;
+    let b,c,d;
+    let e = 100;
+    let f = 521, g = 'iloveyou', h = [];
+</script>
+</body>
+</html>
