@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+<!--
+  vueを作る
+-->
+<div class="box2">
+  box2 -- {{ count }}
+</div>
+<div class="box">
+  box -- {{ msg }}
+</div>
+-----------------------------------------------------
+<div id="app">
+  <h1>{{ msg }}</h1>
+  <a href="#">{{ count }}</a>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.7.14/dist/vue.js"></script>
+
+<script>
+  const app = new Vue({
+    el: '#app',
+    data: {
+      msg: 'Hello 传智播客',
+      count: 666
+    }
+  })
+
+</script>
+
+  
+</body>
+</html>

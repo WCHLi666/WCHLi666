@@ -1,0 +1,5 @@
+.container {
+  background-color: #f00;
+  background-image: -webkit-gradient(linear, left top, right top, from(#f00), color-stop(orange), to(yellow));
+  background-image: linear-gradient(to right, #f00, orange, yellow);
+}/*# sourceMappingURL=css.css.map */
