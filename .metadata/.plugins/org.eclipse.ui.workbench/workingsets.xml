@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701760736939_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701760736945_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701825504863_3" label="sky-take-out" name="sky-take-out">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sky-take-out" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sky-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sky-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sky-server" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701760738035_2" label="Window Working Set" name="Aggregate for window 1701760738035"/>
+</workingSetManager>
