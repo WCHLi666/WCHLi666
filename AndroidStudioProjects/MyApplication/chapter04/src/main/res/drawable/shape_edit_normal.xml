@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--    形の中の色を指定-->
+    <solid android:color="#ffffff"/>
+
+    <!--形のボーダーの粗さと色を指定-->
+    <stroke android:width="1dp"
+        android:color="#aaaaaa"/>
+
+    <!--四つコーナーのrを指定-->
+    <corners android:radius="5dp"/>
+
+    <!--    四つ方向のパッディングを指定-->
+    <padding
+        android:bottom="2dp"
+        android:left="2dp"
+        android:right="2dp"
+        android:top="2dp"/>
+
+
+</shape>

@@ -38,7 +38,7 @@ public class POITest {
         row.createCell(2).setCellValue("南京");
 
         //通过输出流将内存中的Excel文件写入到磁盘
-        FileOutputStream out = new FileOutputStream(new File("D:\\info.xlsx"));
+        FileOutputStream out = new FileOutputStream(new File("/Users/dreamtank122/info.xlsx"));
         excel.write(out);
 
         //关闭资源
@@ -52,7 +52,7 @@ public class POITest {
      * @throws Exception
      */
     public static void read() throws Exception{
-        InputStream in = new FileInputStream(new File("D:\\info.xlsx"));
+        InputStream in = new FileInputStream(new File("/Users/dreamtank122/工作簿1.xlsx"));
 
         //读取磁盘上已经存在的Excel文件
         XSSFWorkbook excel = new XSSFWorkbook(in);
@@ -77,7 +77,7 @@ public class POITest {
     }
 
     public static void main(String[] args) throws Exception {
-        //write();
+//        write();
         read();
     }
 }

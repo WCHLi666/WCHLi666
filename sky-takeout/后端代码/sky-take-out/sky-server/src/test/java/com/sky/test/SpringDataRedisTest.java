@@ -1,16 +1,22 @@
 package com.sky.test;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.data.redis.connection.DataType;
-import org.springframework.data.redis.core.*;
-
-import java.util.List;
-import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
-//@SpringBootTest
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.data.redis.core.HashOperations;
+import org.springframework.data.redis.core.ListOperations;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.core.SetOperations;
+import org.springframework.data.redis.core.ValueOperations;
+import org.springframework.data.redis.core.ZSetOperations;
+import java.util.*;
+import org.springframework.data.redis.connection.*;
+
+
+@SpringBootTest
 public class SpringDataRedisTest {
 
     @Autowired
@@ -25,24 +31,23 @@ public class SpringDataRedisTest {
         SetOperations setOperations = redisTemplate.opsForSet();
         ZSetOperations zSetOperations = redisTemplate.opsForZSet();
     }
-
     /**
      * 操作字符串类型的数据
      */
     @Test
     public void testString(){
         // set get setex setnx
-        redisTemplate.opsForValue().set("name","小明");
-        String city = (String) redisTemplate.opsForValue().get("name");
+        redisTemplate.opsForValue().set("city", "beijing");
+        String city = (String) redisTemplate.opsForValue().get("city");
         System.out.println(city);
-        redisTemplate.opsForValue().set("code","1234",3, TimeUnit.MINUTES);
-        redisTemplate.opsForValue().setIfAbsent("lock","1");
-        redisTemplate.opsForValue().setIfAbsent("lock","2");
+        redisTemplate.opsForValue().set("code", "1234", 3, TimeUnit.MINUTES);
+        redisTemplate.opsForValue().setIfAbsent("lock", "1");
+        redisTemplate.opsForValue().setIfAbsent("lock", "2");
     }
 
-    /**
-     * 操作哈希类型的数据
-     */
+//    /**
+//     * 操作哈希类型的数据
+//     */
     @Test
     public void testHash(){
         //hset hget hdel hkeys hvals
@@ -62,10 +67,10 @@ public class SpringDataRedisTest {
 
         hashOperations.delete("100","age");
     }
-
-    /**
-     * 操作列表类型的数据
-     */
+//
+//    /**
+//     * 操作列表类型的数据
+//     */
     @Test
     public void testList(){
         //lpush lrange rpop llen
@@ -82,10 +87,10 @@ public class SpringDataRedisTest {
         Long size = listOperations.size("mylist");
         System.out.println(size);
     }
-
-    /**
-     * 操作集合类型的数据
-     */
+//
+//    /**
+//     * 操作集合类型的数据
+//     */
     @Test
     public void testSet(){
         //sadd smembers scard sinter sunion srem
@@ -108,10 +113,10 @@ public class SpringDataRedisTest {
 
         setOperations.remove("set1","a","b");
     }
-
-    /**
-     * 操作有序集合类型的数据
-     */
+//
+//    /**
+//     * 操作有序集合类型的数据
+//     */
     @Test
     public void testZset(){
         //zadd zrange zincrby zrem
@@ -128,10 +133,10 @@ public class SpringDataRedisTest {
 
         zSetOperations.remove("zset1","a","b");
     }
-
-    /**
-     * 通用命令操作
-     */
+//
+//    /**
+//     * 通用命令操作
+//     */
     @Test
     public void testCommon(){
         //keys exists type del

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="561f1c45-9b0f-4940-843c-baa63ea8c0f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../day01/code/01-创建一个Vue实例.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/code/03-响应式.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day01/code/03-响应式.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/code/04-Vue 指令体验-v-html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/code/16-综合案例-小黑记事本/00-小黑记事本模板.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/code/16-综合案例-小黑记事本/01-小黑记事本功能实现-列表渲染和删除.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/code/16-综合案例-小黑记事本/02-小黑记事本功能实现-添加功能.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/code/16-综合案例-小黑记事本/03-小黑记事本功能实现-底部功能.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/code/16-综合案例-小黑记事本/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/target/classes/META-INF/maven/com.sky/sky-common/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/target/classes/META-INF/maven/com.sky/sky-common/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/target/classes/META-INF/maven/com.sky/sky-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-common/target/classes/META-INF/maven/com.sky/sky-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/target/classes/META-INF/maven/com.sky/sky-pojo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/target/classes/META-INF/maven/com.sky/sky-pojo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/target/classes/META-INF/maven/com.sky/sky-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-pojo/target/classes/META-INF/maven/com.sky/sky-pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/java/com/sky/config/RedisConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/java/com/sky/config/RedisConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/java/com/sky/config/WebSocketConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/java/com/sky/config/WebSocketConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/java/com/sky/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/java/com/sky/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/test/java/com/sky/test/POITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/test/java/com/sky/test/POITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/test/java/com/sky/test/SpringDataRedisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/src/test/java/com/sky/test/SpringDataRedisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/META-INF/maven/com.sky/sky-server/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/META-INF/maven/com.sky/sky-server/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/META-INF/maven/com.sky/sky-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/META-INF/maven/com.sky/sky-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/SkyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/SkyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/annotation/AutoFill.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/annotation/AutoFill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/aspect/AutoFillAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/aspect/AutoFillAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/OssConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/OssConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/RedisConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/RedisConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/WebMvcConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/WebMvcConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/WebSocketConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/config/WebSocketConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/CommonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/DishController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/ReportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/ReportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/SetmealController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/WorkSpaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/admin/WorkSpaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/nofity/PayNotifyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/nofity/PayNotifyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/AddressBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/AddressBookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/DishController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/SetmealController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/ShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/ShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/controller/user/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/handler/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/handler/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/interceptor/JwtTokenAdminInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/interceptor/JwtTokenAdminInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/interceptor/JwtTokenUserInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/interceptor/JwtTokenUserInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/AddressBookMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/AddressBookMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/CategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/DishFlavorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/DishFlavorMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/DishMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/DishMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/EmployeeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/EmployeeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/OrderDetailMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/OrderDetailMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/OrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/OrderMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/SetmealDishMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/SetmealDishMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/SetmealMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/SetmealMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/ShoppingCartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/ShoppingCartMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/AddressBookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/AddressBookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/DishService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/DishService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/ReportService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/ReportService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/SetmealService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/SetmealService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/ShoppingCartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/ShoppingCartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/WorkspaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/WorkspaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/AddressBookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/AddressBookServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/DishServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/DishServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/EmployeeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/ReportServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/ReportServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/SetmealServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/SetmealServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/ShoppingCartServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/ShoppingCartServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/WorkspaceServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/service/impl/WorkspaceServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/task/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/task/MyTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/task/OrderTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/task/OrderTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/task/WebSocketTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/task/WebSocketTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/websocket/WebSocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/classes/com/sky/websocket/WebSocketServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/test-classes/com/sky/test/POITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/test-classes/com/sky/test/POITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/test-classes/com/sky/test/SpringDataRedisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/后端代码/sky-take-out/sky-server/target/test-classes/com/sky/test/SpringDataRedisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../字幕/terraceHouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/../字幕/terraceHouse.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZIPikrlfVdm9hsHnAxj3l8eIZ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dreamtank122/WCHLi666/sky-takeout&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.345977&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9ed6dfde309e3134e023cf92e03896b3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.SkyApplication">
+    <configuration name="SpringDataRedisTest.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sky-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sky.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.test.SpringDataRedisTest" />
+      <option name="METHOD_NAME" value="testString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sky-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.SkyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringDataRedisTest.testString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="561f1c45-9b0f-4940-843c-baa63ea8c0f3" name="Changes" comment="" />
+      <created>1702106749877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702106749877</updated>
+      <workItem from="1702106750944" duration="132000" />
+      <workItem from="1702106885868" duration="31000" />
+      <workItem from="1702106922210" duration="133000" />
+      <workItem from="1702110925286" duration="1309000" />
+      <workItem from="1703049634865" duration="312000" />
+      <workItem from="1703049950565" duration="1000" />
+      <workItem from="1703056106984" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
